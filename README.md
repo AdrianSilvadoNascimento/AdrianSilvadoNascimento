@@ -8,6 +8,7 @@
 AdrianSilvadoNascimento/AdrianSilvadoNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1>Olá!! Me chamo Adrian Silva do Nascimento</h1>
 <p>Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.</p>
 <p>Espero que gostem do conteúdo.</p>
@@ -30,3 +31,27 @@ uma landing page e etc. Confere meus repositórios, são todos públicos.</p>
 <p>Meu sonho é me tornar um desenvolvedor bastante requisitado, um desenvolvedor respeitado na área. <br>
 Sei que o caminho não é fácil. Minha maior meta é ser um desenvolvedor **FULLSTACK**</p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h1> Hello! My name is Adrian Silva do Nascimento </h1>
+<p> I created this profile to publish my projects, my ideas and my studies. </p>
+<p> I hope you like the content. </p>
+<p> If you want to get in touch, send me an email and we will form a team! </p>
+
+<h2> Objective </h2>
+<p> My biggest goal with this profile, in addition to versioning, saving and organizing my projects <br> is that it will be seen by companies that come in contact with me. <br>
+I am very interested and engaged with the ** FRONT-END ** area. </p>
+
+<h2> Studies </h2>
+<p> I am currently studying Javascript and AngularJS. In addition, studying Systems Analysis and Development (Higher Level) </p>
+
+<h2> Projects </h2>
+<p> I try to produce my ideas so that they can become a real product, writing clean code, and with good practices. <br>
+Always trying to maintain logic and fidelity with the model design. </p>
+<p> Here on my profile I have some projects that may interest you, such as: A prototype of a virtual store, a prototype of a finance site <br>
+a landing page and etc. Check my repositories, they are all public. </p>
+
+<h2> My Dream </h2>
+<p> My dream is to become a highly sought after developer, a respected developer in the field. <br>
+I know the road is not an easy one. My biggest goal is to be a ** FULLSTACK ** developer </p>
