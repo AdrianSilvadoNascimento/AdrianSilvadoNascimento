@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @AdrianSilvadoNascimento
-- 👀 I’m interested in get a job in front-end ...
-- 🌱 I’m currently learning javascript & angularJs...
-- 💞️ I’m looking to collaborate on X-Team community...
-- 📫 How to reach me through or E-mail => Adrianfsf10@gmail.com ...
-
-<!---
-AdrianSilvadoNascimento/AdrianSilvadoNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Entra em contato comigo através do meu E-mail => Adrianfsf10@gmail.com
+- 📫 How to reach me through or E-mail => Adrianfsf10@gmail.com
 
 <h1>Olá!! Me chamo Adrian Silva do Nascimento</h1>
 <p>Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.</p>
