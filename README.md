@@ -1,5 +1,5 @@
-- 📫 Entra em contato comigo através do meu E-mail => Adrianfsf10@gmail.com
-- 📫 How to reach me through or E-mail => Adrianfsf10@gmail.com
+- 📫 Entra em contato comigo através do meu E-mail => adrian.siilvanascimento@gmail.com
+- 📫 How to reach me through or E-mail => adrian.siilvanascimento@gmail.com
 
 <h1>Olá!! Me chamo Adrian Silva do Nascimento</h1>
 <p>Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.</p>
