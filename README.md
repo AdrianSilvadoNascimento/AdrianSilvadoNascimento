@@ -1,49 +1,27 @@
-- 📫 Entra em contato comigo através do meu E-mail => adrian.siilvanascimento@gmail.com
-- 📫 How to reach me through or E-mail => adrian.siilvanascimento@gmail.com
+## Olá! Eu sou Adrian Silva
+#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+#### Espero que gostem dos conteúdos 😉
+####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
+### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
-<h1>Olá!! Me chamo Adrian Silva do Nascimento</h1>
-<p>Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.</p>
-<p>Espero que gostem do conteúdo.</p>
-<p>Se quiser entrar em contato, me manda um e-mail e vamos formar um time!</p>
-
-<h2>Objetivo</h2>
-<p>Meu maior objetivo com este perfil, além de versionar, guardar e organizar meus projetos <br> é que ele seja visto por empresas que venham a entrar em contato comigo.<br>
-Estou muito interessado e engajado com a área do **FRONT-END**.</p>
-
-<h2>Estudos</h2>
-<p>Atualmente estou estudando Javascript e AngularJS. Além disso, cursando Análise e Desenvolvimento de Sistemas (Nível Superior)</p>
-
-<h2>Projetos</h2>
-<p>Tento produzir minhas ideias de modo que possam se tornar um produto real, escrevendo um código limpo, e com boas práticas. <br>
-Tentando sempre manter a lógica e a fidelidade com o design modelo.</p>
-<p>Aqui no meu perfil tenho alguns projetos que possam te interessar, como: Um protótipo de loja virtual, um protótipo de site de finanças <br>
-uma landing page e etc. Confere meus repositórios, são todos públicos.</p>
-
-<h2>Meu Sonho</h2>
-<p>Meu sonho é me tornar um desenvolvedor bastante requisitado, um desenvolvedor respeitado na área. <br>
-Sei que o caminho não é fácil. Minha maior meta é ser um desenvolvedor **FULLSTACK**</p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h1> Hello! My name is Adrian Silva do Nascimento </h1>
-<p> I created this profile to publish my projects, my ideas and my studies. </p>
-<p> I hope you like the content. </p>
-<p> If you want to get in touch, send me an email and we will form a team! </p>
-
-<h2> Objective </h2>
-<p> My biggest goal with this profile, in addition to versioning, saving and organizing my projects <br> is that it will be seen by companies that come in contact with me. <br>
-I am very interested and engaged with the ** FRONT-END ** area. </p>
-
-<h2> Studies </h2>
-<p> I am currently studying Javascript and AngularJS. In addition, studying Systems Analysis and Development (Higher Level) </p>
-
-<h2> Projects </h2>
-<p> I try to produce my ideas so that they can become a real product, writing clean code, and with good practices. <br>
-Always trying to maintain logic and fidelity with the model design. </p>
-<p> Here on my profile I have some projects that may interest you, such as: A prototype of a virtual store, a prototype of a finance site <br>
-a landing page and etc. Check my repositories, they are all public. </p>
-
-<h2> My Dream </h2>
-<p> My dream is to become a highly sought after developer, a respected developer in the field. <br>
-I know the road is not an easy one. My biggest goal is to be a ** FULLSTACK ** developer </p>
+<div>
+  <a href="https://github.com/AdrianSilvadoNascimento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianSilvadoNascimento&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianSilvadoNascimento&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adrian-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Adrian-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Adrian-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Adrian-Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Adrian-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Adrian-AngularJs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img align="center" alt="Adrian-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Adrian-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
