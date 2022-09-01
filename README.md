@@ -5,6 +5,11 @@
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 ### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
+### Graduating in systems analysis and development
+#### Here is my portfolio
+#### I hope you like 😉
+#### If you want to contact me, send me an email and let's be a team!
+
 <div>
   <a href="https://github.com/AdrianSilvadoNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianSilvadoNascimento&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
