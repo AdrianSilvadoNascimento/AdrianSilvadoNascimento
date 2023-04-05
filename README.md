@@ -1,5 +1,5 @@
 ## Olá! Eu sou Adrian Silva
-### Estudante de análise e desenvolvimento de sistemas pela Uninassau - 4º período
+### Graduando de análise e desenvolvimento de sistemas pela Uninassau.
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 #### Espero que gostem dos conteúdos 😉
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
