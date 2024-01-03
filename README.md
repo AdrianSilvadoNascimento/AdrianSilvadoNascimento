@@ -1,13 +1,15 @@
 ## Olá! Eu sou Adrian Silva
-### Graduado em análise e desenvolvimento de sistemas pela Uninassau.
-### Pós-Graduado em Desenvolvimento de aplicações em .NET pela UniVitória.
-#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+### Graduado em Análise e Desenvolvimento de Sistemas
+### Pós-Graduado em Desenvolvimento de aplicações em .NET
+### Pós-Graduado em Desenvolvimento de aplicações em WEB
+#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos
 #### Espero que gostem dos conteúdos 😉
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 ### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
-### Graduated in systems analysis and development
+### Graduated in Systems Analysis and Development
 ### Post-Graduated in development of applications with .NET
+### Post-Graduated in development of applications with WEB
 #### Here is my portfolio
 #### I hope you like 😉
 #### If you want to contact me, send me an email and let's be a team!
