@@ -7,7 +7,7 @@
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 ### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
-### Graduated in Systems Analysis and Development
+### Graduated in Analysis and System Development
 ### Post-Graduated in development of Applications with .NET
 ### Post-Graduated in development of WEB Applications
 #### Here is my portfolio
