@@ -33,7 +33,7 @@
   <img align="center" alt="Postgresql" src="https://img.shields.io/badge/postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=green&color=green">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mysql&logoColor=black&color=blue">
 </div>
-#
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react&labelColor=black&color=blue">
@@ -43,7 +43,7 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-#
+
 <div style="display: inline_block;"><br>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -56,5 +56,7 @@
   ##
   
   <div>
-    <a href="https://www.linkedin.com/in/adrian-silva-6b4520200/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/adrian-silva-6b4520200/">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
   </div>
