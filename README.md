@@ -21,7 +21,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  ### Backend <br>
+  <h3>Backend </h3><br>
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Nest-JS" src="https://img.shields.io/badge/Nest-js?style=for-the-badge&logo=nestjs&logoColor=black">
   <img align="center" alt="Node-JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -35,7 +35,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  ### Frontend <br>
+  <h3>Frontend</h3><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=blue">
   <img align="center" alt="React Native" src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react&label=react%20native&color=blue">
@@ -47,7 +47,7 @@
 </div>
 
 <div style="display: inline_block;"><br>
-  ### Environments <br>
+  <h3>Environments</h3><br>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
