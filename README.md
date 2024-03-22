@@ -50,7 +50,7 @@
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/amazon-web%20services?style=for-the-badge&logo=amazon&label=AWS&color=yellow">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/amazon-web%20services?style=for-the-badge&logo=amazon&color=gray">
 </div>
   
   ##
