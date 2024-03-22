@@ -37,7 +37,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=blue">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/react-react?style=for-the-badge&logo=react&label=React%20Native&labelColor=black&color=blue">
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react&label=react%20native&color=blue">
   <img align="center" alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
