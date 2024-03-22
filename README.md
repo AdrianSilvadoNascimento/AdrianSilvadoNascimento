@@ -36,24 +36,24 @@
 
 <div style="display: inline_block"><br>
   <h3>Frontend</h3><br>
-  <img style="margin-bottom: 5px; align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="React" src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=blue">
-  <img style="margin-bottom: 5px; align="center" alt="React Native" src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react&label=react%20native&color=blue">
-  <img style="margin-bottom: 5px; align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img style="margin-bottom: 5px; align="center" alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img style="padding: 5px; align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img style="padding: 5px; align="center" alt="React" src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=blue">
+  <img style="padding: 5px; align="center" alt="React Native" src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react&label=react%20native&color=blue">
+  <img style="padding: 5px; align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img style="padding: 5px; align="center" alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img style="padding: 5px; align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img style="padding: 5px; align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img style="padding: 5px; align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 <div style="display: inline_block;"><br>
   <h3>Environments</h3><br>
-  <img style="margin-bottom: 5px; align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img style="margin-bottom: 5px; align="center" alt="AWS" src="https://img.shields.io/badge/amazon-web%20services?style=for-the-badge&logo=amazon&color=gray">
+  <img style="padding: 5px; align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img style="padding: 5px; align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img style="padding: 5px; align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img style="padding: 5px; align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img style="padding: 5px; align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img style="padding: 5px; align="center" alt="AWS" src="https://img.shields.io/badge/amazon-web%20services?style=for-the-badge&logo=amazon&color=gray">
 </div>
   
   ##
