@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianSilvadoNascimento&layout=compact&langs_count=7&theme=onedark"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-bottom: 5px;"><br>
   <h3>Backend </h3><br>
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Nest-JS" src="https://img.shields.io/badge/Nest-js?style=for-the-badge&logo=nestjs&logoColor=black">
@@ -34,7 +34,7 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mysql&logoColor=black&color=blue">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-bottom: 5px;"><br>
   <h3>Frontend</h3><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=blue">
