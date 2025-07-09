@@ -1,18 +1,6 @@
-## Olá! Eu sou Adrian Silva
-### Graduado em Análise e Desenvolvimento de Sistemas
-### Pós-Graduado em Desenvolvimento de aplicações em .NET
-### Pós-Graduado em Desenvolvimento de aplicações em WEB
-#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos
-#### Espero que gostem dos conteúdos 😉
-####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
-### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
-
+## Hi! I'm Adrian 😉
 ### Graduated in Analysis and System Development
-### Post-Graduated in development of Applications with .NET
-### Post-Graduated in development of WEB Applications
-#### Here is my portfolio
-#### I hope you like 😉
-#### If you want to contact me, send me an email and let's be a team!
+### 3x Post-Graduated
 
 <div>
   <a href="https://github.com/AdrianSilvadoNascimento">
