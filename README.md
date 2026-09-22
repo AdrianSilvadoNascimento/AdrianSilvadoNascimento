@@ -81,21 +81,12 @@ Expanding my backend toolkit into the C#/.NET ecosystem — building REST APIs a
 
 ## Projects
 
-### 🗃️ Quobo
+### 🗃️ [Quobo](https://www.quobo.com.br)
 SaaS inventory management platform — Next.js and React Native on the frontend, a Ruby on Rails API, background jobs and real-time features, deployed to the cloud.
 
 > Seu operador de estoque que trabalha sozinho.
 
 `Next.js` `TypeScript` `React Native` `Ruby on Rails` `PostgreSQL` `Docker` `Cloud`
-
-<!-- adicionar link do repositório/produto aqui -->
-
-### ☕ Coffee API
-A study project to learn ASP.NET Core hands-on — REST API with controllers, dependency injection and Entity Framework Core, documented with OpenAPI/Swagger and covered by tests.
-
-`C#` `ASP.NET Core` `REST API` `Entity Framework Core` `Swagger` `Testing`
-
-<!-- adicionar link do repositório aqui -->
 
 ### 🕹️ The Vigil
 A 2D top-down roguelike built with Unity and C#, featuring wave-based combat and multiple possible endings.
@@ -103,6 +94,12 @@ A 2D top-down roguelike built with Unity and C#, featuring wave-based combat and
 `Unity` `C#` `2D` `Pixel Art` `Top-down` `Roguelike`
 
 <!-- adicionar link do repositório aqui -->
+
+### 💰 [Meu Dinheiro](https://github.com/AdrianSilvadoNascimento/meu-dinheiro)
+<!-- confirmar/ajustar descrição e badges de tecnologia -->
+Personal finance app to track expenses and manage financial goals.
+
+<!-- adicionar badges de tecnologia aqui -->
 
 <br>
 
