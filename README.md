@@ -95,7 +95,7 @@ A 2D top-down roguelike built with Unity and C#, featuring wave-based combat and
 
 <!-- adicionar link do repositório aqui -->
 
-### 💰 [Meu Dinheiro](https://github.com/AdrianSilvadoNascimento/meu-dinheiro)
+### 💰 Meu Dinheiro
 <!-- confirmar/ajustar descrição e badges de tecnologia -->
 Personal finance app to track expenses and manage financial goals.
 
